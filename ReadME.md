@@ -4,6 +4,8 @@ https://adventofcode.com/
 Programming exercises.   
 Excercises will be done in Julia > Python > R.
 
+Being principally a R user, I would like to get used to the Julia and Python way (syntax) of manipulating data.
+
 Goals : 
 - Julia : DataFrames.jl and array manipulations
 - Python : numpy and pandas
